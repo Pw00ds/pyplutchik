@@ -115,7 +115,7 @@ from pyplutchik import plutchik
 
 emotions_simple = {
 	'joy': 1,
-	'trust': 0.6,
+	'trust': 1,
 	'fear': 0.7,
 	'surprise': 1,
 	'sadness': 1,
